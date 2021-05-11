@@ -1,0 +1,36 @@
+body {
+    background-color: blue;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: aqua;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+    font-size: 50px;
+}
+
+nav {
+    padding: 15px 40px;
+    background-color:　white;
+    color: black;
+    font-size: 35px;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+    font-size: 20px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : white;
+    color: black;
+    font-size: 5px;
+}
